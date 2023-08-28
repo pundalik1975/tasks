@@ -1,3 +1,6 @@
 [submodule "worldtime"]
 	path = worldtime
 	url = https://github.com/pundalik1975/worldtime.git
+[submodule "petinfo"]
+	path = petinfo
+	url = https://github.com/pundalik1975/petinfo.git
